@@ -1,0 +1,7 @@
+C:\Users\97798\Desktop\DotNet_Practical\Lab2_Pratigya\Lab2_Pratigya\bin\Debug\Lab2_Pratigya.exe.config
+C:\Users\97798\Desktop\DotNet_Practical\Lab2_Pratigya\Lab2_Pratigya\bin\Debug\Lab2_Pratigya.exe
+C:\Users\97798\Desktop\DotNet_Practical\Lab2_Pratigya\Lab2_Pratigya\bin\Debug\Lab2_Pratigya.pdb
+C:\Users\97798\Desktop\DotNet_Practical\Lab2_Pratigya\Lab2_Pratigya\obj\Debug\Lab2_Pratigya.csproj.AssemblyReference.cache
+C:\Users\97798\Desktop\DotNet_Practical\Lab2_Pratigya\Lab2_Pratigya\obj\Debug\Lab2_Pratigya.csproj.CoreCompileInputs.cache
+C:\Users\97798\Desktop\DotNet_Practical\Lab2_Pratigya\Lab2_Pratigya\obj\Debug\Lab2_Pratigya.exe
+C:\Users\97798\Desktop\DotNet_Practical\Lab2_Pratigya\Lab2_Pratigya\obj\Debug\Lab2_Pratigya.pdb
